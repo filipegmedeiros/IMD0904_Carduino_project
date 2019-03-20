@@ -18,7 +18,8 @@
 //! Construtor for the Led.
 //TODO: Have Object ? Led ON : Led OFF.
 
-Head::Head(int led) {
+Head::Head(int led) 
+{
   pinMode(led, OUTPUT);
   _Pin = led;
 }
@@ -26,7 +27,8 @@ Head::Head(int led) {
 //! Construtor for stabalizationRange.
 //TODO: Have Object ? Set stabalizationRange : Do Nothing.
 
-Head::Head(int object) {
+Head::Head(int object) 
+{
   pinMode(object, OUTPUT);
   _IniciateDistance = object;
 }
