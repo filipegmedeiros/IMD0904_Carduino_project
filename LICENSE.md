@@ -1,6 +1,6 @@
 zlib License
 
-(C) 2019 Filipe Gabriel Fonseca de Medeiros and André Soares
+(C) 2019 Filipe Gabriel Fonseca de Medeiros and Marco Antonio Fernandes Conceição
 
 This software is provided **'as-is',** without any express or implied
 warranty.  In no event will **the authors be held liable for any damages
