@@ -53,7 +53,7 @@
 | • [ThinkCad](https://www.tinkercad.com)                                        |
 | • [GrabCad](https://grabcad.com/)                                              |
 | • [Thingiverse](https://www.thingiverse.com)                                   |
-| • [Wheels - PAblo Galarce](https://grabcad.com/library/moto-reductor-rueda-1)  |
+| • [Wheels - Pablo Galarce](https://grabcad.com/library/moto-reductor-rueda-1)  |
 | • [Chassi - Phil Maddox](https://www.thingiverse.com/thing:2945466)            |
  
  
