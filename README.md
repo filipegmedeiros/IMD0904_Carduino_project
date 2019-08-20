@@ -6,7 +6,7 @@
 
 ---------------------------------------------------------------------------------------------------
 
-## design double:
+## Author Team:
 
 <p align="center">
     <a href="https://github.com/filipegmedeiros">
@@ -23,7 +23,7 @@
 ---------------------------------------------------------------------------------------------------
 
 
- ## About Project
+ ## About the project
 <p> Using an arduino controlled set to make a robot capable of keeping a set distance from an
 arbitrary target, going back when target is too close and forward when too distant</p>
 
@@ -31,9 +31,9 @@ arbitrary target, going back when target is too close and forward when too dista
 ---------------------------------------------------------------------------------------------------
 
 
- ##  What whe goal with Project
+ ##  What we goal with this project
 <p> Developing a functional robot with possible applications on heavy duty carrying robots,
-where the distance keeping is important for the operator's safety</p>
+where distance keeping is important for the operator's safety</p>
  
 
 ---------------------------------------------------------------------------------------------------
